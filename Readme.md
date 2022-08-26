@@ -5,7 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0d9fcae7-4315-46ac-884d-41ca7969c9a1/deploy-status)](https://superlative-cajeta-db6a72.netlify.app/)
 
 
-![Dance homepge](./127.0.0.1_5502_%20(1).png)
+![Dance homepge](./127.0.0.1_5502_1.png)
 
  # Skills.
  - HTML
